@@ -3,7 +3,8 @@
  * @return {boolean}
  */
 var isHappy = function(n) {
-    let arr = [], square = sumOfSquares(n);
+    let arr = []
+    let square = sumOfSquares(n);
     while (!arr.includes(square)) {
         if (square === 1) return true;
         arr.push(square);
@@ -21,3 +22,14 @@ var sumOfSquares = function(num) {
     }
     return sum;
 };
+
+// var isHappy = function(n) {
+//     const arr = []
+//     while(n!==1){
+//         n = n.toString().split('').reduce((a,b)=>a+b*b,0)
+//         if(arr[n])
+//             return false
+//         arr[n] = true
+// }
+//     return true
+// };
