@@ -3,7 +3,7 @@
  * @return {boolean}
  */
 var isPalindrome = function(s) {
-    const reg = /[^\w\sㄱ-힣]|[\_]/g;
+    const reg =/[^a-z^A-Z^0-9]/gi;
   	const regex = / /gi;
     
     let str=s.toLowerCase().replace(reg, ``).replace(regex,'');
