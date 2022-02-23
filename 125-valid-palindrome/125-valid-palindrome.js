@@ -7,12 +7,7 @@ var isPalindrome = function(s) {
   	const regex = / /gi;
     
     let str=s.toLowerCase().replace(reg, ``).replace(regex,'');
-	
   	let newStr=str.split('').reverse().join('');
 
-  if(str===newStr){
-      return true;
-  }else{
-      return false;
-  }
+    return str===newStr;
 };
