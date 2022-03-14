@@ -10,11 +10,7 @@ var mostWordsFound = function(sentences) {
   	sLength=sentences[i].split(' ').length;
     if(sLength>max){
       max=sLength;
-      sLength=0;
-    }else{
-      sLength=0;
     }
-    
   }
 return max;
 };
