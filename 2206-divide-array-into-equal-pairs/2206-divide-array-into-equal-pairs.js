@@ -10,7 +10,7 @@ var divideArray = function(nums) {
         else sH.set(x, sH.get(x) + 1);
     }
     
-    for(let [_, val] of sH) {
+    for(let [key, val] of sH) {
         if(val % 2 !== 0) return false;
     }
     
