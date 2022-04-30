@@ -3,7 +3,12 @@
  * @return {number}
  */
 var addDigits = function(num) {
-        while(num/10 >= 1) num = ~~(num/10) + num % 10;
-
-    return num;
+if(num.toString().length==1) return num;
+  
+  let sum=0;
+  for(let i of num.toString()){
+    sum+=Number(i)
+  }
+    return addDigits(sum)
+  
 };
