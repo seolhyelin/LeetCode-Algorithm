@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0841-shortest-distance-to-a-character](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0841-shortest-distance-to-a-character) |
 | [2594-count-pairs-of-similar-strings](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2594-count-pairs-of-similar-strings) |
 | [3429-special-array-i](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3429-special-array-i) |
 ## Hash Table
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0841-shortest-distance-to-a-character](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0841-shortest-distance-to-a-character) |
 | [2594-count-pairs-of-similar-strings](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2594-count-pairs-of-similar-strings) |
 ## Bit Manipulation
 |  |
@@ -24,4 +26,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2594-count-pairs-of-similar-strings](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2594-count-pairs-of-similar-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0841-shortest-distance-to-a-character](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0841-shortest-distance-to-a-character) |
 <!---LeetCode Topics End-->
