@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0841-shortest-distance-to-a-character](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0841-shortest-distance-to-a-character) |
 | [1283-reformat-date](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/1283-reformat-date) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2594-count-pairs-of-similar-strings](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2594-count-pairs-of-similar-strings) |
 ## Bit Manipulation
 |  |
@@ -31,4 +32,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0841-shortest-distance-to-a-character](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0841-shortest-distance-to-a-character) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
