@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2594-count-pairs-of-similar-strings](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2594-count-pairs-of-similar-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-reformat-date](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/1283-reformat-date) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2594-count-pairs-of-similar-strings](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2594-count-pairs-of-similar-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -28,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2594-count-pairs-of-similar-strings](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2594-count-pairs-of-similar-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
