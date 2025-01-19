@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0841-shortest-distance-to-a-character](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0841-shortest-distance-to-a-character) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2594-count-pairs-of-similar-strings](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2594-count-pairs-of-similar-strings) |
 | [3227-find-missing-and-repeated-values](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3429-special-array-i) |
@@ -49,5 +50,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
+## Sorting
+|  |
+| ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
+## Simulation
+|  |
+| ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
