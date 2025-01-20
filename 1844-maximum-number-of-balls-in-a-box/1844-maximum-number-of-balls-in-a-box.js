@@ -10,8 +10,7 @@ var countBalls = function(lowLimit, highLimit) {
       if(0<i && i<10){
         obj[i] = obj[i] ? obj[i]+1 : obj[i] = i
       }else if(i>9){
-        let sum = 0
-        sum = i.toString().split("").reduce((a,b)=> a+Number(b),0)
+        let sum = i.toString().split("").reduce((a,b)=> a+Number(b),0)
         obj[i] = obj[i] ? obj[i]+1 : obj[i] = sum
       }
     }
