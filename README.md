@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0013-roman-to-integer) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2594-count-pairs-of-similar-strings](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2594-count-pairs-of-similar-strings) |
 | [3227-find-missing-and-repeated-values](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0013-roman-to-integer) |
 | [0841-shortest-distance-to-a-character](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0841-shortest-distance-to-a-character) |
 | [1283-reformat-date](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/1283-reformat-date) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0013-roman-to-integer) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [3227-find-missing-and-repeated-values](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
