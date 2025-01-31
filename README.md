@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3429-special-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3651-transformed-array](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3651-transformed-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
@@ -75,4 +76,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2585-delete-greatest-value-in-each-row](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3651-transformed-array](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3651-transformed-array) |
 <!---LeetCode Topics End-->
