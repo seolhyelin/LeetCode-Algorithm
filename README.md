@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3515-find-if-digit-game-can-be-won](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3651-transformed-array](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3651-transformed-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2585-delete-greatest-value-in-each-row](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Sorting
 |  |
 | ------- |
@@ -77,4 +79,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2585-delete-greatest-value-in-each-row](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3651-transformed-array](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3651-transformed-array) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3708-zigzag-grid-traversal-with-skip) |
 <!---LeetCode Topics End-->
