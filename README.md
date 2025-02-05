@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0841-shortest-distance-to-a-character](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0841-shortest-distance-to-a-character) |
 | [1283-reformat-date](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/1283-reformat-date) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -81,4 +82,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2585-delete-greatest-value-in-each-row](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3651-transformed-array](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3651-transformed-array) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3708-zigzag-grid-traversal-with-skip) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
