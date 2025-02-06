@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0841-shortest-distance-to-a-character) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0013-roman-to-integer) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2594-count-pairs-of-similar-strings](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2594-count-pairs-of-similar-strings) |
 | [3227-find-missing-and-repeated-values](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0841-shortest-distance-to-a-character) |
 ## Prefix Sum
 |  |
@@ -71,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
 |  |
@@ -86,4 +90,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
