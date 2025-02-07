@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2594-count-pairs-of-similar-strings](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2594-count-pairs-of-similar-strings) |
 | [3227-find-missing-and-repeated-values](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3429-special-array-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3651-transformed-array](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3651-transformed-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0013-roman-to-integer) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [3227-find-missing-and-repeated-values](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Matrix
 |  |
