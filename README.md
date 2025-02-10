@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0228-summary-ranges](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0228-summary-ranges) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0841-shortest-distance-to-a-character) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/1878-check-if-array-is-sorted-and-rotated) |
