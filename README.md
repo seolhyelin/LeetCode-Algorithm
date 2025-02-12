@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-shortest-distance-to-a-character](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0841-shortest-distance-to-a-character) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2594-count-pairs-of-similar-strings](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2594-count-pairs-of-similar-strings) |
 | [3227-find-missing-and-repeated-values](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0013-roman-to-integer) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2594-count-pairs-of-similar-strings](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2594-count-pairs-of-similar-strings) |
 | [3227-find-missing-and-repeated-values](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0841-shortest-distance-to-a-character) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -78,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
 |  |
