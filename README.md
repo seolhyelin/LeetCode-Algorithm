@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2594-count-pairs-of-similar-strings](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2594-count-pairs-of-similar-strings) |
+| [3194-find-words-containing-character](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3321-type-of-triangle) |
 | [3429-special-array-i](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3429-special-array-i) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-reformat-date](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/1283-reformat-date) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2594-count-pairs-of-similar-strings](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/2594-count-pairs-of-similar-strings) |
+| [3194-find-words-containing-character](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3194-find-words-containing-character) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3468-find-the-encrypted-string](https://github.com/seolhyelin/LeetCode-Algorithm/tree/master/3468-find-the-encrypted-string) |
 ## Bit Manipulation
